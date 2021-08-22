@@ -28,9 +28,10 @@ with same message as previous commit)
 
 6. unmodify a modified file
     git checkout
+EXIT gitlog: q
 
 7. test unmodify
-exit: -q
+exit: q
 
 8. work with remote repository
 8.1 clone repository
