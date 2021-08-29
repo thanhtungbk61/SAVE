@@ -1,3 +1,7 @@
+
+
+
+
 1. create repository
     git init
 2. add file
@@ -40,6 +44,7 @@ exit: q
 8.2 add local repository to remote repository
 	git init (create repository first)
 	git remote add "name" url ( name use can set to origin)
+
 8.3 fetching and pulling
 	git fetch (see what new in remote repository)
 	git pull  "name" "branch" (loading remote repository to local repository)
@@ -49,6 +54,8 @@ exit: q
 	git commit -m "message"
 	git push "name" "branch"
 	(git push origin master)
+	(git push origin main)
+	
 10 create tag ( tag github understand as realese)
 	(tag name usually like v1.0 ...)
 	git tag -a "name tag" -m "message"

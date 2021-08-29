@@ -7,4 +7,6 @@ instead
 	j++;
 
 // do exercise 1-23, 1.24 after go throught read and write file
-// custome: read a c source file and remove all comment then create or write back to this source file
+// custome: read a c source file and remove all comment then create or write back to this source f
+
+
