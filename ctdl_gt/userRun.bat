@@ -1,3 +1,4 @@
+clear
 rm test
-gcc -o test fifo.c
+gcc -o test stack.c
 test
